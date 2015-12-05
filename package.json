@@ -1,0 +1,26 @@
+{
+  "name": "getthemall",
+  "version": "0.0.1",
+  "description": "gotta GET them all",
+  "main": "getpokes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georules/getthemall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georules/getthemall/issues"
+  },
+  "homepage": "https://github.com/georules/getthemall#readme",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "promise": "^7.0.4",
+    "q": "^1.4.1",
+    "request": "^2.67.0",
+    "underscore": "^1.8.3"
+  }
+}
